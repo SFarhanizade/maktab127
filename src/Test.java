@@ -1,5 +1,5 @@
 public class Test {
-    public static void register(Object o) {
+    public static void registerUser(Object o) {
 
     }
 }
