@@ -7,6 +7,7 @@ public class Main {
     }
 
     private static Object method(Object... objects) {
+        System.out.println("some changes");
         return null;
     }
 }
